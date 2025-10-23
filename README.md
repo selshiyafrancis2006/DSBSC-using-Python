@@ -22,9 +22,10 @@ Visualization: Plot the message signal, carrier signal, DSBSC modulated signal, 
 
 • Execute the code • If any Error, correct it in code and execute again • Verify the generated waveform using Tabulation and Model Waveform
 
-Model Waveform
+Model Waveform:
 
-image
+<img width="1060" height="878" alt="image" src="https://github.com/user-attachments/assets/5656eb49-c7f7-458a-8ed4-7061b621349a" />
+
 Program:
 
 <img width="509" height="518" alt="image" src="https://github.com/user-attachments/assets/afc7018c-e917-4f1a-8186-fcb86f4fe675" />
