@@ -37,7 +37,8 @@ Output Graph:
 
 Tablular Column:
 
-<img width="1559" height="932" alt="image" src="https://github.com/user-attachments/assets/810b491f-88b8-4117-836c-185815a01a35" />
+<img width="1143" height="663" alt="image" src="https://github.com/user-attachments/assets/aaa918a7-21c5-462a-a8f3-85a46227a641" />
+
 
 Result:
 
